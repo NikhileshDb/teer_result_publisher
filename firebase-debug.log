@@ -1,0 +1,25 @@
+[debug] [2022-04-30T01:50:55.321Z] ----------------------------------------------------------------------
+[debug] [2022-04-30T01:50:55.322Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\NikhileshDebbarma\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-04-30T01:50:55.323Z] CLI Version:   10.7.2
+[debug] [2022-04-30T01:50:55.323Z] Platform:      win32
+[debug] [2022-04-30T01:50:55.323Z] Node Version:  v16.14.2
+[debug] [2022-04-30T01:50:55.324Z] Time:          Sat Apr 30 2022 07:20:55 GMT+0530 (India Standard Time)
+[debug] [2022-04-30T01:50:55.324Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-30T01:50:55.393Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-30T01:50:55.393Z] > authorizing via signed-in user (nikhilesh.debbarma062@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\NikhileshDebbarma\Documents\ReactProjectRoot\teer-app
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
